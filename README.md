@@ -17,6 +17,7 @@ Features:
 	•	Continuous Deployment: Deploying a web application in Tomcat 9 involves placing the application's WAR file in the webapps directory, where Tomcat will automatically detect and deploy it.
 
 Purpose:
+
 	•	The purpose of this project is to implement a CI/CD pipeline that automates the build and deployment of a web application using Jenkins, Apache Ant, and Apache Tomcat. The pipeline triggers on code commits, utilizes Jenkins and its plugins for orchestration, employs Apache Ant for build automation, and deploys the resulting WAR file to Tomcat, ensuring efficient, consistent, and reliable application delivery.
 
 Prerequisites
