@@ -28,6 +28,7 @@ Prerequisites
 	•	Ant
 
 Procedure
+
 1. Install and configure Git, Java, Apache Tomcat 9, Jenkins, Apache Ant.
 
 2. Install all needed plugins in Jenkins like Github, Warning Next Generation, Ant, Unit Realtime Test Reporter, Deploy to container, build pipeline.
