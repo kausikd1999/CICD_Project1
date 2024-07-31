@@ -3,6 +3,7 @@ DevOps CI/CD Pipeline Project 1
 Overview
 
 	•	Welcome to the CI/CD (Continuous Integration/Continuous Deployment) project powered by GitHub, Jenkins, Tomcat, and more. This project aims to streamline the development, testing, and deployment processes of applications using modern DevOps practices. 
+ 
 Key Technologies Used:
 	•	GitHub: Hosts the source code repository and manages version control.
 	•	Jenkins: Orchestrates the CI/CD pipelines, automating builds, tests, and deployments.
